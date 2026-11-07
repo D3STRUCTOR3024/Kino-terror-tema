@@ -3,7 +3,7 @@
   "name": "Terror Nocturno",
   "version": "1.1.0",
   "apiVersion": 18,
-  "icon":"icon.png"
+  "icon": "icon.png",
   "entry": "plugin.js",
   "description": "Tema Halloween para Kino TV: negro absoluto, violeta espectral y verde tóxico con acentos naranja calabaza.",
   "hosts": [],
